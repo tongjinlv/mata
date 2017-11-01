@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<settings>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <DebugChecksum>
+        <Checksum>659589566</Checksum>
+    </DebugChecksum>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <Log_file>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </Log_file>
+    <DataSample>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+    </DataSample>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <Breakpoints>
+        <Bp0>_ "STD_CODE" "{$PROJ_DIR$\..\main.c}.75.1" 0 0 0 0 "" 0 ""</Bp0>
+        <Bp1>_ "STD_CODE" "{$PROJ_DIR$\..\main.c}.75.1" 0 0 0 0 "" 0 ""</Bp1>
+        <Bp2>_ "STD_CODE" "{$PROJ_DIR$\PID.c}.1.1" 0 0 0 0 "" 0 ""</Bp2>
+        <Bp3>_ "STD_DATA" "PointerAttr" 0 0 0 3 0 "" 0 ""</Bp3>
+        <Bp4>_ "STD_DATA" "main3" 0 0 0 3 0 "" 0 ""</Bp4>
+        <Bp5>_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.222.1" 0 0 0 0 "" 0 ""</Bp5>
+        <Bp6>_ "STD_CODE" "{$PROJ_DIR$\..\..\..\Libraries\STM8S_StdPeriph_Driver\src\stm8s_clk.c}.70.5" 0 0 0 0 "" 0 ""</Bp6>
+        <Bp7>_ "STD_CODE" "{$PROJ_DIR$\Moto1.c}.36.1" 0 0 0 0 "" 0 ""</Bp7>
+        <Bp8>_ "STD_CODE" "{$PROJ_DIR$\Moto1.c}.13.1" 0 0 0 0 "" 0 ""</Bp8>
+        <Bp9>_ "STD_DATA" "FLASH_ProgramWord" 0 0 0 3 0 "" 0 ""</Bp9>
+        <Bp10>_ "STD_CODE" "{$PROJ_DIR$\Time.c}.8.5" 0 0 0 0 "" 0 ""</Bp10>
+        <Bp11>_ "STD_CODE" "{$PROJ_DIR$\Time.c}.10.3" 0 0 0 0 "" 0 ""</Bp11>
+        <Bp12>_ "STD_CODE" "{$PROJ_DIR$\Time.c}.15.3" 0 0 0 0 "" 0 ""</Bp12>
+        <Bp13>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 0 0 0 0 "" 0 ""</Bp13>
+        <Bp14>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 0 0 0 0 "" 0 ""</Bp14>
+        <Bp15>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 0 0 0 0 "" 0 ""</Bp15>
+        <Bp16>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 0 0 0 0 "" 0 ""</Bp16>
+        <Bp17>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 0 0 0 0 "" 0 ""</Bp17>
+        <Bp18>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 0 0 0 0 "" 0 ""</Bp18>
+        <Bp19>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp19>
+        <Bp20>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 0 0 0 0 "" 0 ""</Bp20>
+        <Bp21>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp21>
+        <Bp22>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 0 0 0 0 "" 0 ""</Bp22>
+        <Bp23>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp23>
+        <Bp24>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp24>
+        <Bp25>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp25>
+        <Bp26>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp26>
+        <Bp27>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp27>
+        <Bp28>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp28>
+        <Bp29>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp29>
+        <Bp30>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 0 0 0 0 "" 0 ""</Bp30>
+        <Bp31>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.275.2" 0 0 0 0 "" 0 ""</Bp31>
+        <Bp32>_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.275.2" 0 0 0 0 "" 0 ""</Bp32>
+        <Bp33>_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.222.1" 0 0 0 0 "" 0 ""</Bp33>
+        <Bp34>_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.222.1" 0 0 0 0 "" 0 ""</Bp34>
+        <Bp35>_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.222.1" 0 0 0 0 "" 0 ""</Bp35>
+        <Bp36>_ "STD_CODE" "{$PROJ_DIR$\..\main.c}.68.3" 0 0 0 0 "" 0 ""</Bp36>
+        <Bp37>_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.222.1" 0 0 0 0 "" 0 ""</Bp37>
+        <Bp38>_ "STD_CODE" "{$PROJ_DIR$\..\main.c}.44.3" 1 0 0 0 "" 0 ""</Bp38>
+        <Count>39</Count>
+    </Breakpoints>
+    <Aliases>
+        <A0>_ "C:\Users\Cat\Desktop\Cube Car\STM8S_StdPeriph_Lib_V2.1.0\Libraries\STM8S_StdPeriph_Driver\src\stm8s_exti.c" ""</A0>
+        <A1>_ "C:\Users\Cat\Desktop\Cube Car\STM8S_StdPeriph_Lib_V2.1.0\Libraries\STM8S_StdPeriph_Driver\src\stm8s_tim4.c" ""</A1>
+        <A2>_ "C:\Users\Cat\Desktop\Cube Car\STM8S_StdPeriph_Lib_V2.1.0\Libraries\STM8S_StdPeriph_Driver\src\stm8s_uart1.c" ""</A2>
+        <A3>_ "C:\Users\Cat\Desktop\Cube Car\STM8S_StdPeriph_Lib_V2.1.0\Project\STM8S_StdPeriph_Template\EWSTM8\Eeprom.c" ""</A3>
+        <A4>_ "C:\Users\Cat\Desktop\Cube Car\STM8S_StdPeriph_Lib_V2.1.0\Project\STM8S_StdPeriph_Template\EWSTM8\Exit.c" ""</A4>
+        <A5>_ "C:\Users\Cat\Desktop\Cube Car\STM8S_StdPeriph_Lib_V2.1.0\Project\STM8S_StdPeriph_Template\EWSTM8\Pwm.c" ""</A5>
+        <A6>_ "C:\Users\Cat\Desktop\Cube Car\STM8S_StdPeriph_Lib_V2.1.0\Project\STM8S_StdPeriph_Template\main.c" ""</A6>
+        <A7>_ "C:\Users\Cat\Desktop\Cube Car\STM8S_StdPeriph_Lib_V2.1.0\Project\STM8S_StdPeriph_Template\stm8s_it.c" ""</A7>
+        <Count>8</Count>
+        <SuppressDialog>1</SuppressDialog>
+    </Aliases>
+    <DebuggerSettings>
+        <DisableInterruptsWhenStepping>0</DisableInterruptsWhenStepping>
+        <LeaveTargetRunning>0</LeaveTargetRunning>
+    </DebuggerSettings>
+</settings>

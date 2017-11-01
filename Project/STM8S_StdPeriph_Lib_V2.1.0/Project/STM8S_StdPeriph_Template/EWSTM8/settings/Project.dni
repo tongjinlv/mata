@@ -1,0 +1,64 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1051558504
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\main.c}.75.1" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\..\main.c}.75.1" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\PID.c}.1.1" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_DATA" "PointerAttr" 0 0 0 3 0 "" 0 ""
+Bp4=_ "STD_DATA" "main3" 1 0 0 3 0 "" 0 ""
+Bp5=_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.152.2" 0 0 0 0 "" 0 ""
+Bp6=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\Libraries\STM8S_StdPeriph_Driver\src\stm8s_clk.c}.70.5" 0 0 0 0 "" 0 ""
+Bp7=_ "STD_CODE" "{$PROJ_DIR$\Moto1.c}.36.1" 0 0 0 0 "" 0 ""
+Bp8=_ "STD_CODE" "{$PROJ_DIR$\Moto1.c}.13.1" 0 0 0 0 "" 0 ""
+Bp9=_ "STD_DATA" "FLASH_ProgramWord" 0 0 0 3 0 "" 0 ""
+Bp10=_ "STD_CODE" "{$PROJ_DIR$\Time.c}.8.5" 1 0 0 0 "" 0 ""
+Bp11=_ "STD_CODE" "{$PROJ_DIR$\Time.c}.10.3" 1 0 0 0 "" 0 ""
+Bp12=_ "STD_CODE" "{$PROJ_DIR$\Time.c}.15.3" 0 0 0 0 "" 0 ""
+Bp13=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 1 0 0 0 "" 0 ""
+Bp14=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 1 0 0 0 "" 0 ""
+Bp15=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 1 0 0 0 "" 0 ""
+Bp16=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 1 0 0 0 "" 0 ""
+Bp17=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 1 0 0 0 "" 0 ""
+Bp18=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 1 0 0 0 "" 0 ""
+Bp19=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp20=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 1 0 0 0 "" 0 ""
+Bp21=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp22=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.263.2" 1 0 0 0 "" 0 ""
+Bp23=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp24=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp25=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp26=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp27=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp28=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp29=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp30=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.262.3" 1 0 0 0 "" 0 ""
+Bp31=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.275.2" 1 0 0 0 "" 0 ""
+Bp32=_ "STD_CODE" "{$PROJ_DIR$\..\stm8s_it.c}.275.2" 1 0 0 0 "" 0 ""
+Bp33=_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.126.10" 1 0 0 0 "" 0 ""
+Bp34=_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.121.8" 1 0 0 0 "" 0 ""
+Bp35=_ "STD_CODE" "{$PROJ_DIR$\Moto.c}.122.8" 1 0 0 0 "" 0 ""
+Count=36
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[Aliases]
+Count=0
+SuppressDialog=0
